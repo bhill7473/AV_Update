@@ -72,8 +72,3 @@ $('#myModal2').modal('toggle');
 });
 
 
-// $("#contacts1").on("click", function(event) {
-//      event.preventDefault()
-// $('#myModal1').modal('toggle');
-
-});
